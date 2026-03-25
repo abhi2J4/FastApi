@@ -48,5 +48,15 @@
     "weight": 75,
     "bmi": 31.22,
     "verdict": "Obese"
+  },
+  "P006": {
+    "name": "mino",
+    "city": "hydrabad",
+    "age": 19,
+    "gender": "male",
+    "height": 5.6,
+    "weight": 55.0,
+    "bmi": 1.75,
+    "verdict": "underWeight"
   }
 }
